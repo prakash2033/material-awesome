@@ -27,16 +27,10 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 - (Optional) [Papirus Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) as icon theme
 - (Optional) [lxappearance](https://sourceforge.net/projects/lxde/files/LXAppearance/) to set up the gtk and icon theme
 
-### 2) Clone the configuration
+### 2) Clone the configuration. Works with awesome 4.3 stable
 
 ```
-git clone https://github.com/PapyElGringo/material-awesome.git ~/.config/awesome
-```
-
-> Awesome 4.3 is so new that most of the distribution didn't updated yet. If you want to install this config on Awesome 4.2 (current version on depo) use the specific awesome-4.2 branch
-
-```
-git clone -b awesome-4.2 https://github.com/PapyElGringo/material-awesome.git ~/.config/awesome
+git clone https://github.com/prakash2033/material-awesome.git ~/.config/awesome
 ```
 
 ### 3) Set the themes
